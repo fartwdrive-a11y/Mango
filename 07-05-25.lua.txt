@@ -16,8 +16,8 @@ StarterGui:SetCore("SendNotification", {
 
 task.wait(8)
 StarterGui:SetCore("SendNotification", {
-    Title = "❗",
-    Text = "leaked by .gg/sleepyhub if you dont listen to king vyylora you gotta face the consequences",
+    Title = "Yoooo",
+    Text = "50z_x runs the bronx comp😹",
     Duration = 8, -- seconds the notification stays on screen
     Button1 = "Got it"
 })
@@ -77,7 +77,7 @@ if LPH_OBFUSCATED == nil then
     end
     LRM_IsUserPremium = false
     LRM_LinkedDiscordID = "0"
-    LRM_ScriptName = "bronx.lol"
+    LRM_ScriptName = "50z.lol"
     LRM_TotalExecutions = 0
     LRM_SecondsLeft = math.huge
     LRM_UserNote = "Developer";
@@ -15983,4 +15983,5 @@ if hookfunction and not Solara and LPH_OBFUSCATED and Game_Name == "South Bronx"
 
         return _FireServer(self, ...)
     end)
+
 end
